@@ -45,7 +45,10 @@ a:hover { text-decoration: underline; }
   color: var(--muted);
   margin-left: 1rem;
 }
-.site-nav a:hover { color: var(--link); }
+.site-nav a:hover { color: var(--link); text-decoration: none; }
+.site-nav a.active { color: var(--text); font-weight: 600; }
+
+.post-back { margin-top: 3rem; }
 
 .site-title {
   color: var(--text);

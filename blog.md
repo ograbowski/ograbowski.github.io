@@ -16,5 +16,5 @@ permalink: /blog/
   {% endfor %}
 </ul>
 {% else %}
-<p class="muted">Nothing here yet — first post coming soon.</p>
+<p class="muted">Nothing here yet. First post coming soon.</p>
 {% endif %}

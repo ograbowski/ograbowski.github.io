@@ -5,7 +5,7 @@ title: Oskar Grabowski
 
 # Hi, I'm Oskar 👋
 
-This is my personal website. From time to time I'll be posting here —
+This is my personal website. From time to time I'll be posting here
 about things I'm working on and things I find interesting.
 
 The site is under construction; for now I'm just checking that everything works. 🚧
@@ -23,7 +23,7 @@ The site is under construction; for now I'm just checking that everything works.
 </ul>
 <p><a href="{{ '/blog/' | relative_url }}">All posts →</a></p>
 {% else %}
-<p class="muted">Nothing here yet — first post coming soon.</p>
+<p class="muted">Nothing here yet. First post coming soon.</p>
 {% endif %}
 
 ## Contact
