@@ -29,3 +29,5 @@ The site is under construction; for now I'm just checking that everything works.
 ## Contact
 
 - Email: [oskar.grabowski@gmail.com](mailto:oskar.grabowski@gmail.com)
+- GitHub: [ograbowski](https://github.com/ograbowski)
+- LinkedIn: [oskar-grabowski](https://www.linkedin.com/in/oskar-grabowski/)
