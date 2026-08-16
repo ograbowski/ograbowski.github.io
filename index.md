@@ -31,4 +31,3 @@ about things I'm working on and things I find interesting.
 - Email: [oskar.grabowski@gmail.com](mailto:oskar.grabowski@gmail.com)
 - GitHub: [ograbowski](https://github.com/ograbowski)
 - LinkedIn: [oskar-grabowski](https://www.linkedin.com/in/oskar-grabowski/)
-
