@@ -1,0 +1,13 @@
+title: Oskar Grabowski
+description: Personal site and blog
+url: ""
+lang: pl
+
+# Blog posts will live in _posts/ as YYYY-MM-DD-title.md files
+permalink: /blog/:year/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - README.md
