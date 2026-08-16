@@ -10,17 +10,18 @@ about things I'm working on and things I find interesting.
 
 The site is under construction; for now I'm just checking that everything works. 🚧
 
-## Blog
+## Recent posts
 
 {% if site.posts.size > 0 %}
 <ul class="post-list">
-  {% for post in site.posts %}
+  {% for post in site.posts limit: 5 %}
   <li>
     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </li>
   {% endfor %}
 </ul>
+<p><a href="{{ '/blog/' | relative_url }}">All posts →</a></p>
 {% else %}
 <p class="muted">Nothing here yet — first post coming soon.</p>
 {% endif %}

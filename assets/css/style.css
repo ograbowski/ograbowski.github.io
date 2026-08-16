@@ -33,10 +33,19 @@ a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 .site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
   margin-bottom: 3rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid var(--border);
 }
+
+.site-nav a {
+  color: var(--muted);
+  margin-left: 1rem;
+}
+.site-nav a:hover { color: var(--link); }
 
 .site-title {
   color: var(--text);
