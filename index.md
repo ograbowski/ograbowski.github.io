@@ -3,12 +3,12 @@ layout: default
 title: Oskar Grabowski
 ---
 
-# Hi, I'm Oskar 👋
+# hi
 
 This is my personal website. From time to time I'll be posting here
 about things I'm working on and things I find interesting.
 
-The site is under construction; for now I'm just checking that everything works. 🚧
+<!-- The site is under construction; for now I'm just checking that everything works. 🚧 -->
 
 ## Recent posts
 
