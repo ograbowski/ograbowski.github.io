@@ -83,6 +83,10 @@ h2 { font-size: 1.25rem; margin: 2.5rem 0 0.75rem; }
   font-size: 0.875rem;
 }
 
+.footer-links { margin: 0 0 0.25rem; }
+.footer-links a { color: var(--muted); }
+.footer-links a:hover { color: var(--link); }
+
 pre, code {
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 0.9em;
