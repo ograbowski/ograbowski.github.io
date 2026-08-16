@@ -1,7 +1,7 @@
 title: Oskar Grabowski
 description: Personal site and blog
 url: ""
-lang: pl
+lang: en
 
 # Blog posts will live in _posts/ as YYYY-MM-DD-title.md files
 permalink: /blog/:year/:title/

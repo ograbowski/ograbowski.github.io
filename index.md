@@ -3,12 +3,12 @@ layout: default
 title: Oskar Grabowski
 ---
 
-# Cześć, jestem Oskar 👋
+# Hi, I'm Oskar 👋
 
-To jest moja osobista strona. Od czasu do czasu będę tu publikował posty —
-o rzeczach, nad którymi pracuję i które mnie interesują.
+This is my personal website. From time to time I'll be posting here —
+about things I'm working on and things I find interesting.
 
-Strona jest w budowie; na razie sprawdzam, czy wszystko działa. 🚧
+The site is under construction; for now I'm just checking that everything works. 🚧
 
 ## Blog
 
@@ -22,9 +22,9 @@ Strona jest w budowie; na razie sprawdzam, czy wszystko działa. 🚧
   {% endfor %}
 </ul>
 {% else %}
-<p class="muted">Jeszcze nic tu nie ma — pierwszy post wkrótce.</p>
+<p class="muted">Nothing here yet — first post coming soon.</p>
 {% endif %}
 
-## Kontakt
+## Contact
 
-- E-mail: [oskar.grabowski@gmail.com](mailto:oskar.grabowski@gmail.com)
+- Email: [oskar.grabowski@gmail.com](mailto:oskar.grabowski@gmail.com)
