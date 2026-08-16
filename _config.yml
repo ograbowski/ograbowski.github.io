@@ -11,3 +11,4 @@ highlighter: rouge
 
 exclude:
   - README.md
+  - CLAUDE.md
