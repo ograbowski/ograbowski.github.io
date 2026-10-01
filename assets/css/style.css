@@ -108,7 +108,7 @@ pre {
 
 img { max-width: 100%; }
 
-.social { display: flex; gap: 1.25rem; align-items: center; }
-.social a { color: var(--muted); display: inline-flex; }
-.social a:hover { color: var(--link); text-decoration: none; }
-.social svg { width: 1.5rem; height: 1.5rem; }
+.social { display: flex; flex-direction: column; gap: 0.5rem; }
+.social a { display: inline-flex; align-items: center; gap: 0.6rem; align-self: flex-start; }
+.social svg { width: 1.15rem; height: 1.15rem; color: var(--muted); flex-shrink: 0; }
+.social a:hover svg { color: var(--link); }
