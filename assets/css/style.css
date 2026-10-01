@@ -107,3 +107,8 @@ pre {
 }
 
 img { max-width: 100%; }
+
+.social { display: flex; gap: 1.25rem; align-items: center; }
+.social a { color: var(--muted); display: inline-flex; }
+.social a:hover { color: var(--link); text-decoration: none; }
+.social svg { width: 1.5rem; height: 1.5rem; }
